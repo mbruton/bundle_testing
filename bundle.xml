@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <label>Bundle Testing App</label>
+        <name>bundle_testing</name>
+        <version>0.0.1</version>
+        <type>application</type>
+        <namespace>/applications/bundle_test</namespace>
+        <description>Bundle testing application.</description>
+        <copyright>2015 Adapt Framework</copyright>
+        <depends_on>
+            <bundle>files</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
